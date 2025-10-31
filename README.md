@@ -15,9 +15,13 @@ To do so, run:
 ```npm install```
 
 #### Step - 3
+Create a .env file
+The dotenv file must contain the following vars:
+```PORT=3000```
+
 Start the server
 Run:
 ```npm run start```
 
 # API URL
-
+https://bewd-ca3-bsvk.onrender.com
